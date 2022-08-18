@@ -1,0 +1,952 @@
+/* Welcome to Namish CSS! Margin */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@font-face {
+    font-family: robotoBlack;
+    src: url(Roboto-Regular.ttf);
+}
+@font-face {
+    font-family: robotoMedium;
+    src: url(Roboto-Medium.ttf);
+}
+@font-face {
+    font-family: robotoThin;
+    src: url(Roboto-Light.ttf);
+}
+body {
+    margin: 0;
+    font-family: robotoBlack;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.m-1 {
+    margin: 1px;
+}
+.m-2 {
+    margin: 2px;
+}
+.m-3 {
+    margin: 3px;
+}
+.m-4 {
+    margin:4px;
+}
+.m-5 {
+    margin:5px;
+}
+.m-6 {
+    margin:6px;
+}
+.m-7 {
+    margin: 7px;
+}
+.m-8 {
+    margin: 8px;
+}
+.m-9 {
+    margin: 9px;
+}
+.m-10 {
+    margin: 10px;
+}
+.m-11 {
+    margin: 11px;
+}
+.m-12 {
+    margin: 12px;
+}
+.m-13 {
+    margin: 13px;
+}
+.m-14 {
+    margin: 14px;
+}
+.m-15 {
+    margin: 15px;
+}
+.m-16 {
+    margin: 16px;
+}
+.m-17 {
+    margin: 17px;
+}
+.m-18 {
+    margin: 18px;
+}
+.m-19 {
+    margin: 19px;
+}
+.m-20 {
+    margin: 20px;
+}
+.m-21 {
+    margin: 21px;
+}
+.m-22 {
+    margin: 22px;
+}
+.m-23 {
+    margin: 23px;
+}
+.m-24 {
+    margin: 24px;
+}
+.m-25 {
+    margin: 25px;
+}
+.m-26 {
+    margin: 26px;
+}
+.m-27 {
+    margin: 27px;
+}
+.m-28 {
+    margin: 28px;
+}
+.m-29{
+    margin: 29px;
+}
+.m-30 {
+    margin: 30px;
+}
+.m-31 {
+    margin: 31px;
+}
+.m-32 {
+    margin: 32px;
+}
+.m-33 {
+    margin: 33px;
+}
+.m-34 {
+    margin: 34px;
+}
+.m-35 {
+    margin: 35px;
+}
+.m-36 {
+    margin: 36px;
+}
+.m-37 {
+    margin: 37px;
+}
+.m-38 {
+    margin: 38px;
+}
+.m-39 {
+    margin: 39px;
+}
+.m-40 {
+    margin: 40px;
+}
+.m-50 {
+    margin: 50px;
+}
+.m-60 {
+    margin: 60px;
+}
+.m-70 {
+    margin: 70px;
+}
+.m-80 {
+    margin: 80px;
+}
+.m-90 {
+    margin: 90px;
+}
+.m100 {
+    margin: 100px;
+}
+.m-auto {
+    margin: auto;
+}
+/* NamishCSS Margin Left */
+.ml-1 {
+    margin-left: 1px;
+}
+.ml-2 {
+    margin-left: 2px;
+}
+.ml-3 {
+    margin-left: 3px;
+}
+.ml-4 {
+    margin-left:4px;
+}
+.ml-5 {
+    margin-left:5px;
+}
+.ml-6 {
+    margin-left:6px;
+}
+.ml-7 {
+    margin-left: 7px;
+}
+.ml-8 {
+    margin-left: 8px;
+}
+.ml-9 {
+    margin-left: 9px;
+}
+.ml-10 {
+    margin-left: 10px;
+}
+.ml-11 {
+    margin-left: 11px;
+}
+.ml-12 {
+    margin-left: 12px;
+}
+.ml-13 {
+    margin-left: 13px;
+}
+.ml-14 {
+    margin-left: 14px;
+}
+.ml-15 {
+    margin-left: 15px;
+}
+.ml-16 {
+    margin-left: 16px;
+}
+.ml-17 {
+    margin-left: 17px;
+}
+.ml-18 {
+    margin-left: 18px;
+}
+.ml19 {
+    margin-left: 19px;
+}
+.ml-20 {
+    margin-left: 20px;
+}
+.ml-21 {
+    margin-left: 21px;
+}
+.ml-22 {
+    margin-left: 22px;
+}
+.ml-23 {
+    margin-left: 23px;
+}
+.ml-24 {
+    margin-left: 24px;
+}
+.ml-25 {
+    margin-left: 25px;
+}
+.ml-26 {
+    margin-left: 26px;
+}
+.ml-27 {
+    margin-left: 27px;
+}
+.ml-28 {
+    margin-left: 28px;
+}
+.ml-29{
+    margin-left: 29px;
+}
+.ml-30 {
+    margin-left: 30px;
+}
+.ml-31 {
+    margin-left: 31px;
+}
+.ml-32 {
+    margin-left: 32px;
+}
+.ml-33 {
+    margin-left: 33px;
+}
+.ml-34 {
+    margin-left: 34px;
+}
+.ml-35 {
+    margin-left: 35px;
+}
+.ml-36 {
+    margin-left: 36px;
+}
+.ml-37 {
+    margin-left: 37px;
+}
+.ml-38 {
+    margin-left: 38px;
+}
+.ml-39 {
+    margin-left: 39px;
+}
+.ml-40 {
+    margin-left: 40px;
+}
+.ml-50 {
+    margin-left: 50px;
+}
+.ml-60 {
+    margin-left: 60px;
+}
+.ml-70 {
+    margin-left: 70px;
+}
+.ml-80 {
+    margin-left: 80px;
+}
+.ml-90 {
+    margin-left: 90px;
+}
+.ml-100 {
+    margin-left: 100px;
+}
+.ml-auto {
+    margin-left: auto;
+}
+/* NamishCSS Margin Right */
+
+.mr-1 {
+    margin-right: 1px;
+}
+.mr-2 {
+    margin-right: 2px;
+}
+.mr-3 {
+    margin-right: 3px;
+}
+.mr-4 {
+    margin-right:4px;
+}
+.mr-5 {
+    margin-right:5px;
+}
+.mr-6 {
+    margin-right:6px;
+}
+.mr-7 {
+    margin-right: 7px;
+}
+.mr-8 {
+    margin-right: 8px;
+}
+.mr-9 {
+    margin-right: 9px;
+}
+.mr-10 {
+    margin-right: 10px;
+}
+.mr-11 {
+    margin-right: 11px;
+}
+.mr-12 {
+    margin-right: 12px;
+}
+.mr-13 {
+    margin-right: 13px;
+}
+.mr-14 {
+    margin-right: 14px;
+}
+.mr-15 {
+    margin-right: 15px;
+}
+.mr-16 {
+    margin-right: 16px;
+}
+.mr-17 {
+    margin-right: 17px;
+}
+.mr-18 {
+    margin-right: 18px;
+}
+.mr-19 {
+    margin-right: 19px;
+}
+.mr-20 {
+    margin-right: 20px;
+}
+.mr-21 {
+    margin-right: 21px;
+}
+.mr-22 {
+    margin-right: 22px;
+}
+.mr-23 {
+    margin-right: 23px;
+}
+.mr-24 {
+    margin-right: 24px;
+}
+.mr-25 {
+    margin-right: 25px;
+}
+.mr-26 {
+    margin-right: 26px;
+}
+.mr-27 {
+    margin-right: 27px;
+}
+.mr-28 {
+    margin-right: 28px;
+}
+.mr-29{
+    margin-right: 29px;
+}
+.mr-30 {
+    margin-right: 30px;
+}
+.mr-31 {
+    margin-right: 31px;
+}
+.mr-32 {
+    margin-right: 32px;
+}
+.mr-33 {
+    margin-right: 33px;
+}
+.mr-34 {
+    margin-right: 34px;
+}
+.mr-35 {
+    margin-right: 35px;
+}
+.mr-36 {
+    margin-right: 36px;
+}
+.mr-37 {
+    margin-right: 37px;
+}
+.mr-38 {
+    margin-right: 38px;
+}
+.mr-39 {
+    margin-right: 39px;
+}
+.mr-40 {
+    margin-right: 40px;
+}
+.mr-50 {
+    margin-right: 50px;
+}
+.mr-60 {
+    margin-right: 60px;
+}
+.mr-70 {
+    margin-right: 70px;
+}
+.mr-80 {
+    margin-right: 80px;
+}
+.mr-90 {
+    margin-right: 90px;
+}
+.mr-100 {
+    margin-right: 100px;
+}
+.mr-auto {
+    margin-right: auto;
+}
+/* Namr-ishCSS Margin Top */
+
+.mt-1 {
+    margin-top: 1px;
+}
+.mt-2 {
+    margin-top: 2px;
+}
+.mt-3 {
+    margin-top: 3px;
+}
+.mt-4 {
+    margin-top:4px;
+}
+.mt-5 {
+    margin-top:5px;
+}
+.mt-6 {
+    margin-top:6px;
+}
+.mt-7 {
+    margin-top: 7px;
+}
+.mt-8 {
+    margin-top: 8px;
+}
+.mt-9 {
+    margin-top: 9px;
+}
+.mt-10 {
+    margin-top: 10px;
+}
+.mt-11 {
+    margin-top: 11px;
+}
+.mt-12 {
+    margin-top: 12px;
+}
+.mt-13 {
+    margin-top: 13px;
+}
+.mt-14 {
+    margin-top: 14px;
+}
+.mt-15 {
+    margin-top: 15px;
+}
+.mt-16 {
+    margin-top: 16px;
+}
+.mt-17 {
+    margin-top: 17px;
+}
+.mt-18 {
+    margin-top: 18px;
+}
+.mt-19 {
+    margin-top: 19px;
+}
+.mt-20 {
+    margin-top: 20px;
+}
+.mt-21 {
+    margin-top: 21px;
+}
+.mt-22 {
+    margin-top: 22px;
+}
+.mt-23 {
+    margin-top: 23px;
+}
+.mt-24 {
+    margin-top: 24px;
+}
+.mt-25 {
+    margin-top: 25px;
+}
+.mt-26 {
+    margin-top: 26px;
+}
+.mt-27 {
+    margin-top: 27px;
+}
+.mt-28 {
+    margin-top: 28px;
+}
+.mt-29{
+    margin-top: 29px;
+}
+.mt-30 {
+    margin-top: 30px;
+}
+.mt-31 {
+    margin-top: 31px;
+}
+.mt-32 {
+    margin-top: 32px;
+}
+.mt-33 {
+    margin-top: 33px;
+}
+.mt-34 {
+    margin-top: 34px;
+}
+.mt-35 {
+    margin-top: 35px;
+}
+.mt-36 {
+    margin-top: 36px;
+}
+.mt-37 {
+    margin-top: 37px;
+}
+.mt-38 {
+    margin-top: 38px;
+}
+.mt-39 {
+    margin-top: 39px;
+}
+.mt-40 {
+    margin-top: 40px;
+}
+.mt-50 {
+    margin-top: 50px;
+}
+.mt-60 {
+    margin-top: 60px;
+}
+.mt-70 {
+    margin-top: 70px;
+}
+.mt-80 {
+    margin-top: 80px;
+}
+.mt-90 {
+    margin-top: 90px;
+}
+.mt-100 {
+    margin-top: 100px;
+}
+.mt-auto {
+    margin-top: auto;
+}
+/* NamishCSS Margin Bottom*/
+.mb-1 {
+    margin-bottom: 1px;
+}
+.mb-2 {
+    margin-bottom: 2px;
+}
+.mb-3 {
+    margin-bottom: 3px;
+}
+.mb-4 {
+    margin-bottom:4px;
+}
+.mb-5 {
+    margin-bottom:5px;
+}
+.mb-6 {
+    margin-bottom:6px;
+}
+.mb-7 {
+    margin-bottom: 7px;
+}
+.mb-8 {
+    margin-bottom: 8px;
+}
+.mb-9 {
+    margin-bottom: 9px;
+}
+.mb-10 {
+    margin-bottom: 10px;
+}
+.mb-11 {
+    margin-bottom: 11px;
+}
+.mb-12 {
+    margin-bottom: 12px;
+}
+.mb-13 {
+    margin-bottom: 13px;
+}
+.mb-14 {
+    margin-bottom: 14px;
+}
+.mb-15 {
+    margin-bottom: 15px;
+}
+.mb-16 {
+    margin-bottom: 16px;
+}
+.mb-17 {
+    margin-bottom: 17px;
+}
+.mb-18 {
+    margin-bottom: 18px;
+}
+.mb-19 {
+    margin-bottom: 19px;
+}
+.mb-20 {
+    margin-bottom: 20px;
+}
+.mb-21 {
+    margin-bottom: 21px;
+}
+.mb-22 {
+    margin-bottom: 22px;
+}
+.mb-23 {
+    margin-bottom: 23px;
+}
+.mb-24 {
+    margin-bottom: 24px;
+}
+.mb-25 {
+    margin-bottom: 25px;
+}
+.mb-26 {
+    margin-bottom: 26px;
+}
+.mb-27 {
+    margin-bottom: 27px;
+}
+.mb-28 {
+    margin-bottom: 28px;
+}
+.mb-29{
+    margin-bottom: 29px;
+}
+.mb-30 {
+    margin-bottom: 30px;
+}
+.mb-31 {
+    margin-bottom: 31px;
+}
+.mb-32 {
+    margin-bottom: 32px;
+}
+.mb-33 {
+    margin-bottom: 33px;
+}
+.mb-34 {
+    margin-bottom: 34px;
+}
+.mb-35 {
+    margin-bottom: 35px;
+}
+.mb-36 {
+    margin-bottom: 36px;
+}
+.mb-37 {
+    margin-bottom: 37px;
+}
+.mb-38 {
+    margin-bottom: 38px;
+}
+.mb-39 {
+    margin-bottom: 39px;
+}
+.mb-40 {
+    margin-bottom: 40px;
+}
+.mb-50 {
+    margin-bottom: 50px;
+}
+.mb-60 {
+    margin-bottom: 60px;
+}
+.mb-70 {
+    margin-bottom: 70px;
+}
+.mb-80 {
+    margin-bottom: 80px;
+}
+.mb-90 {
+    margin-bottom: 90px;
+}
+.mb-100 {
+    margin-bottom: 100px;
+}
+.mb-auto {
+    margin-bottom: auto;
+}
+
+/* NamishCSS Button */
+.nBtn {
+   background-color: #ff0077;
+   border: none;
+   outline: none;
+   padding: 15px;
+   width: 10em;
+   color: white;
+   border-radius: 360px;
+   font-size: 20px;
+   transition: 0.45s;
+}
+.nBtn:hover {
+    background-color: #b50054;
+    border: none;
+    outline: none;
+    padding: 15px;
+    width: 10em;
+    color: white;
+    border-radius: 360px;
+    font-size: 20px;
+    transition: 0.45s;
+ }
+ .nBtn:focus {
+    border: none;
+    outline: none;
+    padding: 15px;
+    box-shadow: #b50054;
+    width: 10em;
+    color: white;
+    border-radius: 360px;
+    font-size: 20px;
+    transition: 0.45s;
+ }
+
+ .bold {
+    font-weight: bold;
+ }
+ /* NamishCSS Border Radius */
+ .r1 {
+    border-radius: 1px;
+ }
+ .r2 {
+    border-radius: 2px;
+ }
+ .r3 {
+    border-radius: 3px;
+ }
+ .r4 {
+    border-radius: 4px;
+ }
+ .r5 {
+    border-radius: 5px;
+ }
+ .r6 {
+    border-radius: 6px;
+ }
+ .r7 {
+    border-radius: 7px;
+ }
+ .r8 {
+    border-radius: 8px;
+ }
+ .r9 {
+    border-radius: 9px;
+ }
+ .r10 {
+    border-radius: 10px;
+ }
+ .r11 {
+    border-radius: 11px;
+ }
+ .r12 {
+    border-radius: 12px;
+ }
+ .r13 {
+    border-radius: 13px;
+ }
+ .r14 {
+    border-radius: 14px;
+ }
+ .r15 {
+    border-radius: 15px;
+ }
+ .r16 {
+    border-radius: 16px;
+ }
+ .r17 {
+    border-radius: 17px;
+ }
+ .r18 {
+    border-radius: 18px;
+ }
+ .r19 {
+    border-radius: 19px;
+ }
+ .r20 {
+    border-radius: 20px;
+ }
+ .r-full {
+    border-radius: 360px;
+ }
+ .r-auto {
+    border-radius: auto;
+ }
+/* NamishCSS Padding */
+.p-1 {
+    padding: 1;
+}
+.bg-black {
+    background-color: black;
+}
+.bg-white {
+    background-color: white;
+}
+.bg-primary {
+    background-color: #ff0077;
+}
+.bg-secondary {
+    background-color: blue;
+}
+.bg-alt {
+    background-color: purple;
+}
+.bg-red {
+    background-color: red;
+}
+.bg-pink {
+    background-color: pink;
+}
+.bg-green {
+    background-color: green;
+}
+.bg-green-light {
+    background-color: greenyellow;
+}
+.bg-aqua {
+    background-color: aqua;
+}
+.text-grayscale {
+    color:#9a9a9a;
+}
+.text-5 {
+    font-size: 5px;
+}
+.text-10 {
+    font-size: 10px;
+}
+.text-15 {
+    font-size: 15px;
+}
+.text-18 {
+    font-size: 18px;
+}
+.text-20 {
+    font-size: 20px;
+}
+.text-22 {
+    font-size: 22px;
+}
+.text-24 {
+    font-size: 24px;
+}
+@font-face {
+    font-family: robotoBold;
+    src: url(Roboto-Bold.ttf);
+}
+.head {
+    font-family: robotoBold;
+}
+.para {
+    font-family: robotoThin;
+}
+.lineBreak {
+    visibility: hidden;
+    user-select: none;
+    margin-top: 3px;
+    margin-bottom: 2px;
+}
+.noCopy {
+    user-select: none;
+}
+.inp {
+    border-color: #9a9a9a;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 360px;
+    width: 30em;
+    outline: none;
+    padding: 12.5px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.inp:hover {
+    border-color: #464646;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 360px;
+    width: 30em;
+    outline: none;
+    padding: 12.5px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.inp:focus {
+    border-color: #ff0077;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 360px;
+    width: 30em;
+    outline: none;
+    padding: 12.5px;
+    padding-left: 25px;
+    font-size: 20px;
+    font-weight: 500;
+}
+/* End of NamishCSS Codes! */
+
